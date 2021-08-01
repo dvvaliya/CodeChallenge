@@ -1,0 +1,14 @@
+com/codechallenge/MainApplication.java
+ com.codechallenge.MainApplication
+ com.codechallenge.MainApplication$1
+com/codechallenge/BuildConfig.java
+ com.codechallenge.BuildConfig
+com/codechallenge/MainActivity.java
+ com.codechallenge.MainActivity
+com/codechallenge/ReactNativeFlipper.java
+ com.codechallenge.ReactNativeFlipper
+ com.codechallenge.ReactNativeFlipper$1
+ com.codechallenge.ReactNativeFlipper$2
+ com.codechallenge.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
