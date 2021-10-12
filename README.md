@@ -3,7 +3,7 @@
 
 ### Developed by Dharmendra Valiya
 
-This code challenge includes 3 screens from figma which was assigned by thesquareware and it was developed in React-native-cli.
+It was developed in React-native-cli.
 
 ## Tech Tools
 
